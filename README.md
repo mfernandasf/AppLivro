@@ -14,13 +14,11 @@ Se você ama livros (ou quer começar a amar), o **Leia.Me** é o app perfeito p
 
 ---
 
+## Desenvolvido por Maria Fernanda e Williams Torres 🛠️👩🏼‍💻👨🏼‍💻
+
 ## 🛠️ Como dar os primeiros passos?
 
 1. Clone esse cantinho literário no seu computador:
 
 ```bash
 git clone https://github.com/seuusuario/leia.me.git
-
----
-
-## Desenvolvido por Maria Fernanda e Williams Torres 🛠️👩🏼‍💻👨🏼‍💻
